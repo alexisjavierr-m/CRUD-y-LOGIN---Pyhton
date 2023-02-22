@@ -1,0 +1,11 @@
+{
+    "host": "34.134.216.189",
+    "port": "5432",
+    "dbname": "CMPC",
+    "user": "postgres",
+    "password": "esteban123",
+    "table_name": "bd_buzones_bucalemu",
+    "column_name": "sku",
+    "file_path": "Asignacion_Aserraderos - 09_Demanda"
+  }
+  
